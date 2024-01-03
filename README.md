@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WajdiRaydaLuna
-- 👀 I’m interested in Programming, coding 
-- 🌱 I’m currently learning full-stack development
+- 👀 I’m interested in full-stack development
+- 🌱 I’m currently learning java and more
 - 💞️ I’m looking to collaborate on programming and coding
 - 📫 How to reach me:
   * Linkedin: https://www.linkedin.com/in/wajdi-jerbi-a9405011b/
