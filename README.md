@@ -1,8 +1,7 @@
 ![Start](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJkbmdvMW85OXMza2E5Ym84bmo5NGF2ZGV2ZWtrd2Z1ZmVkM3MydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QfXKe522OEagWgTVpf/giphy.gif) 
-<img src="https://openclipart.org/image/2400px/svg_to_png/28580/kablam-Number-Animals-1.png" width="200"/> <img src="https://openclipart.org/download/71101/two.svg" width="300"/>
+<img src="[https://openclipart.org/image/2400px/svg_to_png/28580/kablam-Number-Animals-1.png](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJkbmdvMW85OXMza2E5Ym84bmo5NGF2ZGV2ZWtrd2Z1ZmVkM3MydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QfXKe522OEagWgTVpf/giphy.gif)" width="200"/> <img src="https://openclipart.org/download/71101/two.svg" width="300"/>
 
 ![Hello](https://miro.medium.com/v2/resize:fit:1358/1*X7Q84nkQN1DiFXC-rQLt9g.gif)
-
 - 👋 Hi, I’m @WajdiRaydaLuna
 - 👀 I’m interested in full-stack development
 - 🌱 I’m currently learning java and more
