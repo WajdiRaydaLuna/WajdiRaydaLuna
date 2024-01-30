@@ -6,7 +6,7 @@
 - 📫 How to reach me:
   * [<img width="50" height="50" src="https://img.icons8.com/bubbles/50/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/wajdi-jerbi-a9405011b/)
   * Discord: 1176626843722461294 G
-  * Email: wajdi88jerbi@gmail.com
+  * [<img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail-new"/>](wajdi88jerbi@gmail.com)
   * Whatsapp: +351920134791
 
 <!---
