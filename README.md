@@ -7,7 +7,7 @@
   * [<img width="50" height="50" src="https://img.icons8.com/bubbles/50/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/wajdi-jerbi-a9405011b/)
   * Discord: 1176626843722461294 G
   * [<img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail-new"/>](wajdi88jerbi@gmail.com)
-  * [<a target="_blank" href="https://icons8.com/icon/uZWiLUyryScN/whatsapp">WhatsApp</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>](https://icons8.com/icon/7OeRNqg6S7Vf/whatsapp)](https://icons8.com/icon/7OeRNqg6S7Vf/whatsapp) +351920134791
+  * [<a target="_blank" href="https://icons8.com/icon/uZWiLUyryScN/whatsapp">WhatsApp</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>](https://icons8.com/icon/7OeRNqg6S7Vf/whatsapp) +351920134791
 
 <!---
 WajdiRaydaLuna/WajdiRaydaLuna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
