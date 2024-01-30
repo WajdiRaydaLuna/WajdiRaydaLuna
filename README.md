@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning java and more
 - 💞️ I’m looking to collaborate on programming and coding
 - 📫 How to reach me:
-  * [[Linkedin]([https://www.linkedin.com/in/wajdi-jerbi-a9405011b/](https://www.oiml.org/en/ressources/logos/linkedin-icon-small.png/@@images/image.png))](https://www.linkedin.com/in/wajdi-jerbi-a9405011b/)
+  * [![Linkedin]([https://www.linkedin.com/in/wajdi-jerbi-a9405011b/](https://www.oiml.org/en/ressources/logos/linkedin-icon-small.png/@@images/image.png))](https://www.linkedin.com/in/wajdi-jerbi-a9405011b/)
   * Discord: 1176626843722461294 G
   * Email: wajdi88jerbi@gmail.com
   * Whatsapp: +351920134791
