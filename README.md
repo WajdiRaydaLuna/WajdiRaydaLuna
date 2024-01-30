@@ -1,4 +1,4 @@
-![Hellllo](https://i.gifer.com/1Kte.gif)
+![Hellllo]([https://i.gifer.com/1Kte.gif](https://media1.giphy.com/media/QfXKe522OEagWgTVpf/giphy.gif))
 ![Hello](https://miro.medium.com/v2/resize:fit:1358/1*X7Q84nkQN1DiFXC-rQLt9g.gif)
 - 👋 Hi, I’m @WajdiRaydaLuna
 - 👀 I’m interested in full-stack development
