@@ -6,10 +6,7 @@
 - 🌱 I’m currently learning java and more
 - 💞️ I’m looking to collaborate on programming and coding
 - 📫 How to reach me:
-  * [<img width="50" height="50" src="https://img.icons8.com/bubbles/50/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/wajdi-jerbi-a9405011b/)
-  * [<img width="48" height="48" src="https://img.icons8.com/fluency/48/discord-new-logo.png" alt="discord-new-logo"/>](https://discord.com/users/1176626843722461294)
-  * [<img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail-new"/>](https://mail.google.com/mail/u/0/#inbox?compose=jrjtXGjMCzhlKLKSkJLQmBZMqBtjsRKglcCGzhnvXHTVTfXzvwFsjThSNHzHndtCgVgMjNfl)
-  * [<img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>](https://wa.me/<+351920134791>)
+   * [<img width="50" height="50" src="https://img.icons8.com/bubbles/50/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/wajdi-jerbi-a9405011b/) [<img width="48" height="48" src="https://img.icons8.com/fluency/48/discord-new-logo.png" alt="discord-new-logo"/>](https://discord.com/users/1176626843722461294) [<img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail-new"/>](https://mail.google.com/mail/u/0/#inbox?compose=jrjtXGjMCzhlKLKSkJLQmBZMqBtjsRKglcCGzhnvXHTVTfXzvwFsjThSNHzHndtCgVgMjNfl) [<img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>](https://wa.me/<+351920134791>)
 
 <!---
 WajdiRaydaLuna/WajdiRaydaLuna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
