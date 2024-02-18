@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @WajdiRaydaLuna
 - 👀 I’m interested in full-stack development
-- 🌱 I’m currently Cadet from [![CodeforAll_](https://codeforall.com/hs-fs/hubfs/Antigo-vs-novo_preto_500x90.gif?width=180&name=Antigo-vs-novo_preto_500x90.gif)](https://codeforall.com/) learning java and more
+- 🌱 I’m currently a Cadet from [![CodeforAll_](https://codeforall.com/hs-fs/hubfs/Antigo-vs-novo_preto_500x90.gif?width=180&name=Antigo-vs-novo_preto_500x90.gif)](https://codeforall.com/) learning java and more
 - 💞️ I’m looking to collaborate on programming and coding
 - 📫 How to reach me:
    * [<img width="50" height="50" src="https://img.icons8.com/bubbles/50/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/wajdi-jerbi-a9405011b/) [<img width="48" height="48" src="https://img.icons8.com/fluency/48/discord-new-logo.png" alt="discord-new-logo"/>](https://discord.com/users/1176626843722461294) [<img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail-new"/>](https://mail.google.com/mail/u/0/#inbox?compose=jrjtXGjMCzhlKLKSkJLQmBZMqBtjsRKglcCGzhnvXHTVTfXzvwFsjThSNHzHndtCgVgMjNfl) [<img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>](https://wa.me/<+351920134791>)
